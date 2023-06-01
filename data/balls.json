@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Palau",
+    "emoji": "Palau",
+    "img": ""
+  },
+  {
+    "name": "Arctic Ocean",
+    "emoji": "Arctic_Ocean",
+    "img": ""
+  },
+  {
+    "name": "USSR",
+    "emoji": "ussr",
+    "img": "https://media.discordapp.net/attachments/1109765734361464902/1109767795467620362/1684626201254.png?width=796&height=606"
+  },
+  {
+    "name": "British Empire",
+    "emoji": "BritishEmpire",
+    "img": ""
+  },
+  {
+    "name": "Nazi Germany",
+    "emoji": "nazi_germany",
+    "img": "https://media.discordapp.net/attachments/1109765734361464902/1109881958001017012/1684686793143.png?width=491&height=606"
+  },
+  {
+    "name": "Roman Republic",
+    "emoji": "Roman_Republic",
+    "img": ""
+  },
+  {
+    "name": "Spanish Empire",
+    "emoji": "SpanishEmpire",
+    "img": "https://media.discordapp.net/attachments/1109860975659716718/1110966616377790474/1684689881117.png?width=1035&height=606"
+  }
+]
